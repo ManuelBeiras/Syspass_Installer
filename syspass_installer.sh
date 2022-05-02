@@ -10,8 +10,6 @@
 ##                                                                                                     ##
 ##Authors:                                                                                             ##
 ##			Manuel José Beiras Belloso																   ##
-##			Rubén Míguez Bouzas										                                   ##
-##			Luis Mera Castro										                                   ##
 #########################################################################################################
 # Initial check that validates if you are root and if the operating system is Ubuntu
 function initialCheck() {
